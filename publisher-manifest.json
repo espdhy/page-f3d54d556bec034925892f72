@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "c077d4238f0fc914fc4ab4d0",
+  "owner": "espdhy",
+  "repo": "page-f3d54d556bec034925892f72",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f3d54d556bec034925892f72",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ec65ca5f1904f423e3b8f097a403eeaa10285000e882a9f7e2e854972f00f496",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬VPN为您提供稳定可靠的网络加速方案，涵盖基础、旗舰和团队版套餐。支持多设备在线和流媒体解锁，官网客户端下载即刻体验。",
+          "AI_DESCRIPTION": "快柠檬VPN为您提供稳定可靠的网络加速方案，涵盖基础、旗舰和团队版套餐。支持多设备在线和流媒体解锁，官网客户端下载即刻体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,sans-serif;background:linear-gradient(#0A2540,#112f4a);color:#e0f0ff;line-height:1.6}main{max-width:1100px;margin:0 auto;padding:2rem}section{margin-bottom:2.5rem}#hero{text-align:center;padding:4rem 1rem;background:rgba(10,37,64,.85);border-radius:16px}#hero h1{font-size:3.5rem;color:#00E5FF;margin-bottom:.5rem}#hero p{font-size:1.4rem;margin:1rem 0}#hero a{display:inline-block;background:#00E5FF;color:#0A2540;padding:14px 32px;border-radius:8px;font-weight:600;margin-top:1rem;transition:all .3s}a:hover{transform:scale(1.05)}h2{font-size:2rem;color:#00BFFF;margin:2rem 0 1rem;border-bottom:2px solid #00E5FF;padding-bottom:.75rem} .card{background:#112f4a;border-radius:12px;padding:1.75rem;margin-bottom:1.5rem;box-shadow:0 4px 15px rgba(0,0,0,.4)} .card h3{color:#00E5FF;margin-bottom:1rem} .features-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem} .feature{margin:.75rem 0;padding:.75rem;background:#0A2540;border-radius:8px} details{background:#112f4a;border-radius:8px;padding:1.25rem;margin-bottom:1rem} summary{font-weight:700;cursor:pointer;color:#00E5FF;font-size:1.25rem} summary::-webkit-details-marker{display:none} @media(max-width:768px){h1{font-size:2.6rem} main{padding:1rem}}a{color:#00E5FF;text-decoration:none}a:hover{text-decoration:underline}</style><main><section id=\"hero\"><h1>快柠檬</h1><p>高速网络加速服务</p><p>多种套餐供您选择</p><a href=\"#套餐选择\">立即查看套餐</a></section><section><h2>品牌简介</h2><p>快柠檬致力于为用户提供稳定、安全的网络加速解决方案。无论您是个人用户还是企业团队，都能找到合适的套餐。</p><h2>使用场景</h2><p>快柠檬适用于日常浏览、在线游戏加速以及视频平台内容解锁场景，帮助您畅享无缓冲的高速网络体验。</p><h2>操作指南</h2><ol><li>访问官网下载客户端</li><li>注册账号并完成支付</li><li>选择节点进行连接</li></ol></section><section id=\"套餐选择\"><h2>选择适合您的套餐</h2>{{PLANS_HTML}}</section><section><h2>常见问题</h2><details><summary>快柠檬VPN是什么？</summary><p>快柠檬VPN是一款提供高速稳定网络连接的服务，帮助用户突破地理限制并优化上网速度。</p></details><details><summary>如何选择套餐？</summary><p>可以根据您的使用场景和需求匹配基础版、旗舰版或团队版套餐。</p></details><details><summary>基础版套餐的主要特点是什么？</summary><p>基础版适合个人用户，提供基本的流量支持和设备连接功能。</p></details><details><summary>旗舰版有哪些突出优势？</summary><p>旗舰版针对流媒体解锁和游戏加速提供优化，支持更多设备和优先服务。</p></details><details><summary>团队版适合什么类型的用户？</summary><p>团队版为企业用户提供高流量支持、VIP节点和定制化服务。</p></details><details><summary>年付优惠详情？</summary><p>年付模式可享受显著的价格优惠，具体年付金额请以官网页面为准。</p></details></section><section><h2>合作伙伴</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "f31284b45da0c10473294e17e27f0843a1ea855b8e45d069136f827c275a3a3b",
+          "seo": {
+            "title": "快柠檬VPN - 高速网络加速器 | 客户端下载",
+            "keywords": "快柠檬VPN, 网络加速, VPN加速器, 快柠檬, 客户端下载, 机场, 梯子",
+            "description": "快柠檬VPN为您提供稳定可靠的网络加速方案，涵盖基础、旗舰和团队版套餐。支持多设备在线和流媒体解锁，官网客户端下载即刻体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "weipanw.cn",
+    "host": "home.weipanw.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "weipanw.cn",
+      "url": "https://weipanw.cn/",
+      "label": "少数派",
+      "apex": "weipanw.cn",
+      "kind": null,
+      "identity": "trvmrbhaw/page-a49cd54346cf7a22134acdab"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b79ae60c992c2e533de0e5c4519b9ea7ad990392e8b949c2621688b4fbd3af0d",
+    "sitemap.xml": "a92abe699860ed57db2939bbbd1a6f8e10dc8b2bd23bc39b97db585b8748817b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7eb8a3d8007c2f6022c122410268fffc03d23e1af8de0af2990bbe6522acc2fe",
+    "robots.txt": "9082afcfc49738ad234a8242995c8a017539f372a37802179c5304593f4215b7",
+    "0f197310d99efeb53796cfcceb6b9ded.txt": "1f3d5ace0edcc30ddce26c33c507f853e8eb0ad94c33f4c9ee0a97f152f3affa"
+  },
+  "revision": "b0a87dac5806e00835f2ba61d0c1a4f2704920b73aacaf3e65c0b116d9d40f0c"
+}
